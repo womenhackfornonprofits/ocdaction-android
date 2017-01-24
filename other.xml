@@ -2,11 +2,12 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="http://https://github.com/womenhackfornonprofits/ocdaction-android" />
+        <option value="https://github.com/womenhackfornonprofits/ocdaction-android.git" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://github.com/womenhackfornonprofits/ocdaction-android.git" />
         <option value="http://https://github.com/womenhackfornonprofits/ocdaction-android" />
       </list>
     </option>
