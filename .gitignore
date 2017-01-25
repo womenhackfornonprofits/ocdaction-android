@@ -1,0 +1,8 @@
+*.properties
+*.xml
+OCDAction-Android.iml
+build/generated/mockable-android-25.jar
+*.iml
+.gradle/2.14.1/taskArtifacts/taskArtifacts.bin
+*.bin
+.gradle/2.14.1/taskArtifacts/cache.properties.lock
