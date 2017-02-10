@@ -33,6 +33,7 @@ A collaborative, youth­led project aiming to make use of digital technology to 
    - Windows          
    - Mac
    - Linux
+ 3. Clone Github Repo into Android Studio [Instuctions ](https://youtu.be/VEM-IEG9SXs)
 
 # Contributing
-Please follow a few guidelines in order to contribute to the project set out in the [Contributing file]
+Please follow a few guidelines in order to contribute to the project set out in the [Contributing file](https://github.com/womenhackfornonprofits/ocdaction/blob/master/CONTRIBUTING.md)
